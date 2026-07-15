@@ -1,4 +1,4 @@
-import streamlit as dt
+import streamlit as st
 
 # 1. 페이지 기본 설정 및 디자인 (별도 라이브러리 없이 CSS 주입)
 st.set_page_config(
